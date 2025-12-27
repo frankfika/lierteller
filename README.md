@@ -31,7 +31,7 @@ A cyberpunk-styled holographic lie detector powered by Google Gemini Multimodal 
 
 ```bash
 # Clone the repository
-git clone https://github.com/fangchen/lierteller.git
+git clone https://github.com/frankfika/lierteller.git
 cd lierteller
 
 # Install dependencies
